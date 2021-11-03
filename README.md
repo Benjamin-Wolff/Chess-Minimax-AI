@@ -25,7 +25,7 @@ from the command line, you should run:
 
 ```
 pip3 install -Iv pygame==2.01
-pip3 install -Iv pygame-meun==3.1.4
+pip3 install -Iv pygame-menu==3.5.8
 ```
 since the most updated versions of pygame-menu are not compatible with the chess engine.
 
